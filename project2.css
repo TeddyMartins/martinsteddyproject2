@@ -1,0 +1,17 @@
+@charset "utf-8";
+body{
+	padding: 0;
+	margin: 0;
+}
+img{position: absolute;}
+.rightlunggood{
+	left: 515px;
+	top: 280px;
+}
+.leftlunggood{
+	left:250px;
+}
+.heartgood{
+	left:505px;
+	top:430px;
+}
